@@ -109,13 +109,6 @@ The algorithm effectively removes mild background noise while maintaining speech
 
 ---
 
-## Author
-
-Tharun
-B.Tech Student
-
----
-
 ## License
 
 This project is released under the MIT License.
